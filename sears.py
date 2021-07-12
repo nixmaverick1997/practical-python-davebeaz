@@ -8,4 +8,4 @@ while bill_dim*num_bill<sears_h:
     day=day+1
 print('No. of days: ', day)
 print('No. of bills used: ', num_bill)
-print('Height of stack of bills: ', bill_dim*num_bill)    
+print('Height of stack of bills: ', bill_dim*num_bill)
